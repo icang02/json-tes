@@ -1,0 +1,104 @@
+{
+  "best_products": [
+    {
+      "id": 1,
+      "code": "K-01",
+      "name": "Sate Ayam",
+      "price": 20000,
+      "is_ready": true,
+      "image": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "code": "K-02",
+      "name": "Nasi Goreng Telur",
+      "price": 15000,
+      "is_ready": true,
+      "image": "nasi-goreng-telur.jpg"
+    },
+    {
+      "id": 3,
+      "code": "K-03",
+      "name": "Mie Ayam",
+      "price": 18000,
+      "is_ready": true,
+      "image": "mie-ayam.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "code": "K-01",
+      "name": "Sate Ayam",
+      "price": 20000,
+      "is_ready": true,
+      "image": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "code": "K-02",
+      "name": "Nasi Goreng Telur",
+      "price": 15000,
+      "is_ready": true,
+      "image": "nasi-goreng-telur.jpg"
+    },
+    {
+      "id": 3,
+      "code": "K-03",
+      "name": "Mie Ayam",
+      "price": 18000,
+      "is_ready": true,
+      "image": "mie-ayam.jpg"
+    },
+    {
+      "id": 4,
+      "code": "K-04",
+      "name": "Nasi Goreng Kampung",
+      "price": 13000,
+      "is_ready": true,
+      "image": "nasi-goreng-kampung.jpg"
+    },
+    {
+      "id": 5,
+      "code": "K-05",
+      "name": "Bakso",
+      "price": 15000,
+      "is_ready": true,
+      "image": "bakso.jpg"
+    },
+    {
+      "id": 6,
+      "code": "K-06",
+      "name": "Nasi Goreng Spesial",
+      "price": 20000,
+      "is_ready": true,
+      "image": "nasi-goreng-spesial.jpg"
+    },
+    {
+      "id": 7,
+      "code": "K-07",
+      "name": "Lontong",
+      "price": 2000,
+      "is_ready": true,
+      "image": "lontong.jpg"
+    },
+    {
+      "id": 8,
+      "code": "K-08",
+      "name": "Ayam Geprek",
+      "price": 10000,
+      "is_ready": true,
+      "image": "ayam-geprek.jpg"
+    },
+    {
+      "id": 9,
+      "code": "K-09",
+      "name": "Ayam Geprek Spesial",
+      "price": 13000,
+      "is_ready": true,
+      "image": "ayam-geprek-spesial.jpg"
+    }
+  ],
+  "cart": [],
+  "order": []
+}
