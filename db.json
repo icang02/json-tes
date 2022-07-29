@@ -97,6 +97,14 @@
       "price": 13000,
       "is_ready": true,
       "image": "ayam-geprek-spesial.jpg"
+    },
+    {
+      "id": 10,
+      "code": "K-10",
+      "name": "Bubur Ayam",
+      "price": 17000,
+      "is_ready": true,
+      "image": "bubur-ayam.jpg"
     }
   ],
   "cart": [],
