@@ -107,6 +107,6 @@
       "image": "bubur-ayam.jpg"
     }
   ],
-  "cart": [],
-  "order": []
+  "carts": [],
+  "orders": []
 }
