@@ -107,6 +107,45 @@
       "image": "bubur-ayam.jpg"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "jumlah_pesanan": 1,
+      "product": {
+        "id": 3,
+        "code": "K-03",
+        "name": "Mie Ayam",
+        "price": 18000,
+        "is_ready": true,
+        "image": "mie-ayam.jpg"
+      },
+      "id": 1
+    },
+    {
+      "jumlah_pesanan": 1,
+      "keterangan": "tidak pake lombo",
+      "product": {
+        "id": 8,
+        "code": "K-08",
+        "name": "Ayam Geprek",
+        "price": 10000,
+        "is_ready": true,
+        "image": "ayam-geprek.jpg"
+      },
+      "id": 2
+    },
+    {
+      "jumlah_pesanan": 1,
+      "keterangan": "nda pke mie",
+      "product": {
+        "id": 5,
+        "code": "K-05",
+        "name": "Bakso",
+        "price": 15000,
+        "is_ready": true,
+        "image": "bakso.jpg"
+      },
+      "id": 3
+    }
+  ],
   "orders": []
 }
